@@ -3,25 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.ServiceModel.Syndication;
 using System.Web.Http;
+using System.Xml;
+using static RSSFeed.RSSFeed;
 
 namespace RSSFeed.Controllers
 {
-    [Authorize]
     public class ValuesController : ApiController
     {
-        // GET api/values
-        public IEnumerable<string> Get()
+        public object FeedReader { get; private set; }
+
+        [HttpGet]
+        public IEnumerable<PressRSS> Index()
         {
-            return new string[] { "value1", "value2" };
+           return  RSSFeed.GetFeed();
         }
 
-        // GET api/values/5
-        public string Get(int id)
-        {
-            return "value";
-        }
-
+      
         // POST api/values
         public void Post([FromBody]string value)
         {

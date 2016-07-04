@@ -1,0 +1,5 @@
+C:\Rahul\TestApp\RSSFeed\RSSReader.cs\obj\Debug\RSSReader.cs.csprojResolveAssemblyReference.cache
+C:\Rahul\TestApp\RSSFeed\RSSReader.cs\bin\Debug\RSSReader.cs.dll
+C:\Rahul\TestApp\RSSFeed\RSSReader.cs\bin\Debug\RSSReader.cs.pdb
+C:\Rahul\TestApp\RSSFeed\RSSReader.cs\obj\Debug\RSSReader.cs.dll
+C:\Rahul\TestApp\RSSFeed\RSSReader.cs\obj\Debug\RSSReader.cs.pdb
