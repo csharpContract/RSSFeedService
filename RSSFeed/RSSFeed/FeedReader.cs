@@ -7,21 +7,15 @@ using System.Xml;
 using System.Xml.Linq;
 using System.ServiceModel.Syndication;
 using System.Web.Mvc;
+using RSSFeed.Models;
 
 namespace RSSFeed
 {
 
    
-    public class RSSFeed
+    public class RSSFeedReader
     {
-        public class PressRSS
-        {
-            public string Title { get; set; }
-            public string Description { get; set; }
-            public string Link { get; set; }
-            public string PubDate { get; set; }
-            public string Media { get; set; }
-        }
+        
 
 
         private static List<string> GetRssFeeds()

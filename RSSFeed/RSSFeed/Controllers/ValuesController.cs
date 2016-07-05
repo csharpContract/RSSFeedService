@@ -6,9 +6,8 @@ using System.Net.Http;
 using System.ServiceModel.Syndication;
 using System.Web.Http;
 using System.Xml;
-using static RSSFeed.RSSFeed;
-
 using System.Web.Http.Filters;
+using RSSFeed.Models;
 
 public class AllowCrossSiteJsonAttribute : ActionFilterAttribute
 {
@@ -31,7 +30,7 @@ namespace RSSFeed.Controllers
         [HttpGet]
         public IEnumerable<PressRSS> Index()
         {
-           return  RSSFeed.GetFeed();
+           return  RSSFeed.RSSFeedReader.GetFeed();
         }
 
       

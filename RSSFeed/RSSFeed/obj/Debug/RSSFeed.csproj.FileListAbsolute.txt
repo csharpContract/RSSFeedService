@@ -76,4 +76,3 @@ C:\Rahul\TestApp\RSSFeed\RSSFeed\obj\Debug\RSSFeed.dll
 C:\Rahul\TestApp\RSSFeed\RSSFeed\obj\Debug\RSSFeed.pdb
 C:\Rahul\TestApp\RSSFeed\RSSFeed\obj\Debug\RSSFeed.Migrations.Initial.resources
 C:\Rahul\TestApp\RSSFeed\RSSFeed\obj\Debug\RSSFeed.csproj.GenerateResource.Cache
-C:\Rahul\TestApp\RSSFeed\RSSFeed\obj\Debug\RSSFeed.csprojResolveAssemblyReference.cache

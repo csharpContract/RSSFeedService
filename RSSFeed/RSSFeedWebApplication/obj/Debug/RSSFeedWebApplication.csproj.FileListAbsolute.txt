@@ -28,6 +28,10 @@ C:\Rahul\TestApp\RSSFeed\RSSFeedWebApplication\bin\System.Web.Webpages.Deploymen
 C:\Rahul\TestApp\RSSFeed\RSSFeedWebApplication\bin\System.Web.Webpages.Razor.xml
 C:\Rahul\TestApp\RSSFeed\RSSFeedWebApplication\bin\System.Web.Helpers.xml
 C:\Rahul\TestApp\RSSFeed\RSSFeedWebApplication\bin\System.Web.Mvc.xml
-C:\Rahul\TestApp\RSSFeed\RSSFeedWebApplication\obj\Debug\RSSFeedWebApplication.csprojResolveAssemblyReference.cache
 C:\Rahul\TestApp\RSSFeed\RSSFeedWebApplication\obj\Debug\RSSFeedWebApplication.dll
 C:\Rahul\TestApp\RSSFeed\RSSFeedWebApplication\obj\Debug\RSSFeedWebApplication.pdb
+C:\Rahul\TestApp\RSSFeed\RSSFeedWebApplication\bin\EntityFramework.dll
+C:\Rahul\TestApp\RSSFeed\RSSFeedWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Rahul\TestApp\RSSFeed\RSSFeedWebApplication\bin\EntityFramework.xml
+C:\Rahul\TestApp\RSSFeed\RSSFeedWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Rahul\TestApp\RSSFeed\RSSFeedWebApplication\obj\Debug\RSSFeedWebApplication.csprojResolveAssemblyReference.cache
